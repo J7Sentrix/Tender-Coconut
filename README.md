@@ -95,7 +95,7 @@ sudo apt update && sudo apt install -y \
 **2. Clone the repository**
 
 ```bash
-git clone https://github.com/your-org/tender-coconut.git
+git clone https://github.com/J7Sentrix/tender-coconut.git
 cd tender-coconut
 ```
 
@@ -143,7 +143,7 @@ sudo apt update && sudo apt install -y python3 python3-pip python3-venv git curl
 **3. Clone, create venv, and install**
 
 ```bash
-git clone https://github.com/your-org/tender-coconut.git
+git clone https://github.com/J7Sentrix/tender-coconut.git
 cd tender-coconut
 python3 -m venv .venv
 source .venv/bin/activate
